@@ -1,0 +1,16 @@
+.navbar {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.navbar-icon {
+	font-size: 2rem;
+	color: rgb(247, 147, 81);
+}
+h1 {
+	color: #fff;
+}
+.heading {
+	color: rgb(247, 147, 81);
+}
