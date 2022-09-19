@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Crypsearch/static/css/main.cc4f5560.css",
-    "main.js": "/Crypsearch/static/js/main.0376b1ac.js",
+    "main.js": "/Crypsearch/static/js/main.bbd578b6.js",
     "index.html": "/Crypsearch/index.html",
     "main.cc4f5560.css.map": "/Crypsearch/static/css/main.cc4f5560.css.map",
-    "main.0376b1ac.js.map": "/Crypsearch/static/js/main.0376b1ac.js.map"
+    "main.bbd578b6.js.map": "/Crypsearch/static/js/main.bbd578b6.js.map"
   },
   "entrypoints": [
     "static/css/main.cc4f5560.css",
-    "static/js/main.0376b1ac.js"
+    "static/js/main.bbd578b6.js"
   ]
 }
