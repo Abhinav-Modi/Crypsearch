@@ -24,11 +24,12 @@ const App = () => {
 		<>
 			<BrowserRouter>
 				<Navbar />
+				<Coins coins={coins} />
 				<Routes>
-					<Route path="/" element={<Coins coins={coins} />} />
-					<Route path="/coin" element={<Coin />}>
+					{/* <Route path="/" element={<Coins coins={coins} />} /> */}
+					{/* <Route path="/coin" element={<Coin />}>
 						<Route path=":coinId" element={<Coin />} />
-					</Route>
+					</Route> */}
 				</Routes>
 			</BrowserRouter>
 		</>
